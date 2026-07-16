@@ -1,0 +1,15 @@
+export const skills = [
+  { name: 'React', category: 'Frontend' },
+  { name: 'JavaScript', category: 'Frontend' },
+  { name: 'HTML/CSS', category: 'Frontend' },
+  { name: 'Node.js', category: 'Backend' },
+  { name: 'Express.js', category: 'Backend' },
+  { name: 'Java', category: 'Backend' },
+  { name: 'MongoDB', category: 'Database' },
+  { name: 'SAP HANA', category: 'Database' },
+  { name: 'Authentication & Encryption', category: 'Security' },
+  { name: 'SAP Materials Management (MM)', category: 'Tools' },
+  { name: 'Microsoft Excel', category: 'Tools' },
+  { name: 'Procurement', category: 'Other' },
+  { name: 'Purchase Orders', category: 'Other' },
+];
